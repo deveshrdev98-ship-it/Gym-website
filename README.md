@@ -14,4 +14,6 @@ A Sample Partially Developed Showcase Frontend of Gym.
 - JavaScript
 
 ## Live Demo
-(Add GitHub Pages link here)
+
+https://deveshrdev98-ship-it.github.io/Gym-website/
+
